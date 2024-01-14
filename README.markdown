@@ -7,7 +7,7 @@ A simple survival game im working on, its not even close to being done but dont 
 I'm actually just a hobbyist programmer who does random stuff every once a while.
 
 
-## Support
+## Support 💻 
 
 For support, text me on discord, my username is pr0t1k
 
