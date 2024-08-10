@@ -10,5 +10,5 @@ I'm actually just a hobbyist programmer who does random stuff every once a while
 
 ## Support 💻 
 
-For support, text me on discord, my username is pr0t1k
+For support, text me on discord, my username is pro.tik_
 
